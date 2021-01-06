@@ -1,0 +1,26 @@
+{
+  "name": "stat-roller",
+  "version": "1.0.0",
+  "description": "Simple roll 4d6 drop lowest calculator (intended for use with D&D 5e)",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Queejon/StatRoller.git"
+  },
+  "keywords": [
+    "stat",
+    "stats",
+    "dnd",
+    "roll",
+    "roller"
+  ],
+  "author": "Jonah McConnell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Queejon/StatRoller/issues"
+  },
+  "homepage": "https://github.com/Queejon/StatRoller#readme"
+}
